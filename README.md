@@ -36,7 +36,8 @@ pip install pyodbc requests pandas
 py main.py
 
 # EXPLORE DATA
-...
+![Unique CIK List](cik_list.png)
+![2023Q3 Full Index](2023_q3_full_index.png)
 
 # DO SOMETHING WITH DATA
 ...
